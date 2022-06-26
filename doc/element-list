@@ -1,0 +1,7 @@
+application
+application.controller
+application.data
+application.data.DTO
+application.data.entity
+application.data.repository
+application.service

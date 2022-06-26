@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"application","l":"AikoApplication"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"application.controller","l":"DummyController"},{"p":"application.data.DTO","l":"GreetingDTO"}];updateSearchResults();
